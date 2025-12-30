@@ -3,6 +3,7 @@ A **Movie Recommendation System** suggests movies to users based on their intere
 It analyzes movie features like genres or user behavior to find similar movies.
 This system helps users discover relevant content easily and improves user experience.
 Popular platforms like Netflix and Amazon Prime use recommendation systems.
-## 📊 Project Workflow
+## 🎬 Movie Recommendation System
 
-![Movie recomendation system](movies.jpg)
+![Movie Recommendation Output](movies.png)
+
