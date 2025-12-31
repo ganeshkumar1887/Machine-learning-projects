@@ -4,4 +4,4 @@ Text data is converted into numerical features using CountVectorizer.
 The system achieves high accuracy and demonstrates how real-world email spam filters work.
 ## Spam Email Detection Project
 
-![Spam Email Detection](spam_image.png)
+![Spam Email Detection](spam image.png)
