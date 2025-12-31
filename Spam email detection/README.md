@@ -2,6 +2,8 @@ This project focuses on building a Spam Email Detection System using Machine Lea
 The model classifies emails as Spam or Ham using the Naive Bayes algorithm.
 Text data is converted into numerical features using CountVectorizer.
 The system achieves high accuracy and demonstrates how real-world email spam filters work.
-## Spam Email Detection Project
+## Project Output
 
-![Spam Email Detection](spam image.png)
+![Spam Email Detection](spam%20image.png)
+
+
